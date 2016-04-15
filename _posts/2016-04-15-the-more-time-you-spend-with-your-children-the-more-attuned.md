@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The more time you spend with your children, the more attuned you will be to their emerging abilities. Those fathers who spend little time with their children frequently either underestimate or overestimate the developmental progress of their sons and daughters. If you underestimate your child's competence, you won't provide adequate challenge or stimulation. Your child will be bored. If you overestimate your child's skills, your unrealistic expectations will prove to be a frustrating and unpleasant experience for him and you. In either case, your child will be less motivated to interact with you in the future."
-datePublished: '2016-04-15T21:51:52.756Z'
-dateModified: '2016-04-15T21:51:22.757Z'
+datePublished: '2016-04-15T22:07:38.691Z'
+dateModified: '2016-04-15T21:52:45.468Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-15-the-more-time-you-spend-with-your-children-the-more-attuned.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-the-more-time-you-spend-with-your-children-the-more-attuned.md
-published: true
 url: the-more-time-you-spend-with-your-children-the-more-attuned/index.html
 _type: Article
 
