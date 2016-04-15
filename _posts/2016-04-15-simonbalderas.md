@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Simon Balderas
-datePublished: '2016-04-15T23:29:41.068Z'
-dateModified: '2016-04-15T23:21:43.423Z'
+datePublished: '2016-04-15T23:35:36.819Z'
+dateModified: '2016-04-15T23:29:47.374Z'
 title: 'Simon Balderas '
 author: []
 sourcePath: _posts/2016-04-15-simonbalderas.md
