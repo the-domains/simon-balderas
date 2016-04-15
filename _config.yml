@@ -1,0 +1,28 @@
+name: Simon Balderas
+favicon: null
+layout_spectrum: 0.035267828265205026
+typography_spectrum: 0.9254334818106145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5179637670516968
+  lightness: 0.06609845953062177
+  saturation: 0.6697584050707519
+  rhythmicContrast: 0.68331085331738
+purpose: []
