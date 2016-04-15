@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The more time you spend with your children, the more attuned you will be to their emerging abilities. Those fathers who spend little time with their children frequently either underestimate or overestimate the developmental progress of their sons and daughters. If you underestimate your child's competence, you won't provide adequate challenge or stimulation. Your child will be bored. If you overestimate your child's skills, your unrealistic expectations will prove to be a frustrating and unpleasant experience for him and you. In either case, your child will be less motivated to interact with you in the future."
-datePublished: '2016-04-15T22:07:38.691Z'
-dateModified: '2016-04-15T21:52:45.468Z'
+datePublished: '2016-04-15T23:39:25.894Z'
+dateModified: '2016-04-15T23:37:48.144Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-the-more-time-you-spend-with-your-children-the-more-attuned.md
@@ -22,7 +22,7 @@ url: the-more-time-you-spend-with-your-children-the-more-attuned/index.html
 _type: Article
 
 ---
-### Why I like to spend time with my kids
+### Spending time with my kids
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f4cf99d-a273-4cd6-8e8a-d19cb7326736.jpg)
 
 I Enjoy photography more than I do watching football but I enjoy documenting my kids activities through photography more than anything.
