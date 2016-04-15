@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Sister is a coming-of-age short film that parallels the lives and perspectives of an older and much younger sister.\_"
-datePublished: '2016-04-15T23:14:53.394Z'
-dateModified: '2016-04-15T23:14:46.771Z'
-title: ''
+datePublished: '2016-04-15T23:48:37.137Z'
+dateModified: '2016-04-15T23:29:12.107Z'
+title: SISTER
 author: []
 sourcePath: _posts/2016-04-15-sister-is-a-coming-of-age-short-film-that-parallels-the-live.md
 published: true
