@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Sister is a coming-of-age short film that parallels the lives and perspectives of an older and much younger sister.\_"
-datePublished: '2016-04-15T21:30:33.710Z'
-dateModified: '2016-04-15T21:28:52.762Z'
+datePublished: '2016-04-15T23:14:53.394Z'
+dateModified: '2016-04-15T23:14:46.771Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-15-sister-is-a-coming-of-age-short-film-that-parallels-the-live.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-sister-is-a-coming-of-age-short-film-that-parallels-the-live.md
-published: true
 url: sister-is-a-coming-of-age-short-film-that-parallels-the-live/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ae0a89e-2731-45ef-bc5e-cea20661532a.jpg)
+
 Sister is a coming-of-age short film that parallels the lives and perspectives of an older and much younger sister. 
 
 Constance is at the end of her childhood and has already faced some of the harsher realities of life. 
