@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: simonbalderas
-datePublished: '2016-04-15T21:19:47.275Z'
-dateModified: '2016-04-15T21:19:34.015Z'
+description: Simon Balderas
+datePublished: '2016-04-15T21:33:08.882Z'
+dateModified: '2016-04-15T21:32:58.711Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-simonbalderas.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 **Simon Balderas**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25f31239-2b83-4a75-860a-23fd3640aad5.jpg)
 
 Simon Balderas graduated from UC Santa Barbara with a degree in Film Studies.  At an unusually young age, he became an accomplished photographer, spending  hours in the darkroom and photographing in a journalistic style.   While still in grammar school, his interest in photography  evolved into filmmaking.  He first experimented with 8mm stop-motion and then moved into narrative projects. While in college, Simon wrote and directed two award-winning shorts. At 21, he began editing television documentaries for the next several years. At 24, he made his first feature film, inspired by his Mexican heritage.  Since that time Simon has become an accomplished documentary director, a talented cinematographer, and a highly skilled editor whose work has garnered numerous awards.
 
