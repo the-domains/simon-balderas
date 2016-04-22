@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Simon Balderas
-datePublished: '2016-04-15T23:50:32.869Z'
-dateModified: '2016-04-15T23:35:43.877Z'
+description: "Simon Balderas graduated from UC Santa Barbara with a degree in Film Studies.\_\_At an unusually\_young age, he became an accomplished photographer, spending \_hours in the darkroom and photographing in a journalistic style. \_ While still in grammar school, his interest in photography \_evolved into filmmaking. \_He first experimented with 8mm stop-motion and then moved\_into narrative projects. While in college, Simon wrote and directed two award-winning shorts. At 21, he began editing television documentaries for the next several years. At 24, he\_made his first feature film, inspired by his Mexican heritage.\_\_Since that time Simon has become an accomplished documentary director, a talented cinematographer, and a highly skilled editor whose work has garnered\_numerous awards."
+datePublished: '2016-04-22T22:21:25.987Z'
+dateModified: '2016-04-15T23:52:50.692Z'
 title: 'Simon Balderas '
 author: []
 sourcePath: _posts/2016-04-15-simonbalderas.md
@@ -22,7 +22,7 @@ url: simonbalderas/index.html
 _type: Article
 
 ---
-**Simon Balderas**
+## Bio
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25f31239-2b83-4a75-860a-23fd3640aad5.jpg)
 
 Simon Balderas graduated from UC Santa Barbara with a degree in Film Studies.  At an unusually young age, he became an accomplished photographer, spending  hours in the darkroom and photographing in a journalistic style.   While still in grammar school, his interest in photography  evolved into filmmaking.  He first experimented with 8mm stop-motion and then moved into narrative projects. While in college, Simon wrote and directed two award-winning shorts. At 21, he began editing television documentaries for the next several years. At 24, he made his first feature film, inspired by his Mexican heritage.  Since that time Simon has become an accomplished documentary director, a talented cinematographer, and a highly skilled editor whose work has garnered numerous awards.
